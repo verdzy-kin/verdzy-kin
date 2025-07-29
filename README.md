@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @verdzy-kin
+- 👋 Hi, I’m @Delsy_kinyuy
 - 👀 I’m interested in Computer engineering, achitecture and programming 
 - 🌱 I’m currently learning python and undergoing a generative AI bootcamp
 - 💞️ I’m looking to collaborate on any programming works 
