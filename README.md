@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer engineering, achitecture and programming 
 - 🌱 I’m currently learning python and undergoing a generative AI bootcamp
 - 💞️ I’m looking to collaborate on any programming works 
-- 📫 How to reach me delsykinyuy6@gmail.com
+- 📫 How to reach me kinyuydelsy6@gmail.com
 
 <!---
 verdzy-kin/verdzy-kin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
